@@ -44,5 +44,5 @@
 ---
 
 <p align="center">
-  Sempre estudando, errando, aprendendo e codando um pouco melhor todos os dias 💻🚀
+  Sempre estudando, aprendendo e codando um pouco melhor todos os dias 💻🚀
 </p>

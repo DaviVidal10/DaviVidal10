@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 Estudante de **Ciência da Computação**  
+- 🎓 Estudante de **Ciência da Computação** na **UNIPÊ (João Pessoa - PB)**  
 - 💻 Interesse em **Desenvolvimento de Software** e **Inteligência Artificial**  
 - 📚 Estudando: programação em **Java, JavaScript, TypeScript e Python**, estruturas de dados e fundamentos de IA  
 - 🚀 Buscando oportunidades de **estágio em Dev + AI**  

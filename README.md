@@ -43,25 +43,6 @@
 
 ---
 
-## 📌 Alguns projetos
-
-- 🎬 [biblioteca-streaming](https://github.com/DaviVidal10/biblioteca-streaming)  
-  Sistema em C para cadastro e listagem de filmes/séries por ano.
-
-<!-- Quando tiver mais projetos legais, vai adicionando aqui: -->
-<!-- - 🔗 [nome-do-projeto](link) – descrição rápida. -->
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaviVidal10&show_icons=true&theme=dracula" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviVidal10&layout=compact&theme=dracula" height="160" />
-</p>
-
----
-
 <p align="center">
   Sempre estudando, errando, aprendendo e codando um pouco melhor todos os dias 💻🚀
 </p>
